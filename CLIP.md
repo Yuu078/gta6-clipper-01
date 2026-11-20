@@ -36,3 +36,9 @@ throughout, slowed with the picture on the replay.
 @gta6clip.vault.g; its description carries the bounty's line word for word
 and the play code `makefun-stool-lichen-chapel`. `VIDEO.json` in this
 repository names its address.
+
+**Published.** The Short is live at https://www.youtube.com/shorts/sqOsK1r1sWY
+(public on @gta6clip.vault.g since 20 Nov 2026; YouTube's checks passed with
+no issues). This repository at the entered commit is the entry's handover:
+`main.ts` validates and passes `VIDEO.json`, which names that address, to
+the gate.
